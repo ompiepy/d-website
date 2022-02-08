@@ -19,3 +19,5 @@ You can contribute to this repo by adding new links to the websites to learn to 
 - pull the latest changes from the original repository
 - merge the changes from the original repository
 - then only make your changes
+
+Congratulation, you are a contributor now.
